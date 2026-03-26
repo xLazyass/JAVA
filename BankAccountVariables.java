@@ -1,6 +1,6 @@
 public class BankAccountVariables {
     public static void main(String[] args) {
-        String  accountHolder = "Karim ";
+        String  accountHolder = "LxZy";
         long    accountNumber = 1234567890123456L;
         double  balance       = 15_750.85;
         boolean isActive      = true;
