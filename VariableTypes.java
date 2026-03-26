@@ -23,7 +23,7 @@ public class VariableTypes {
         final int MAX_SCORE = 100;
         System.out.println("\nMAX_SCORE = " + MAX_SCORE);
 
-        // Uncommenting the line below causes:
+        // Uncommenting the line 
         // error: cannot assign a value to final variable MAX_SCORE
         // MAX_SCORE = 200;
     }
