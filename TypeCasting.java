@@ -14,6 +14,6 @@ public class TypeCasting {
         String numStr = "42";
         int parsed = Integer.parseInt(numStr);
         System.out.println("\nParsed \"" + numStr + "\" → int: " + parsed);
-        System.out.println("Parsed + 8 = " + (parsed + 8)); // proves it's a real int
+        System.out.println("Parsed + 8 = " + (parsed + 8)); // proves its a real int
     }
 }
